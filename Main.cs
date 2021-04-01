@@ -31,10 +31,6 @@ namespace FiveMESXTest
                 });
             }), false);
         }
-
-        private void SomeMethod()
-        {
-            
-        }
     }
 }
+//This is server sided, please refer to the ESX documentation on functions to use: https://esx-framework.github.io/
